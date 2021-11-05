@@ -1,6 +1,6 @@
 #Kalkulators
 ## Apraksts
-šī programma atrisinās summu, atņems skaitļus, būs reizināšana, dalīšana un iznēst pakāpe. 
+šī programma ir kalkulators 
 ## Galvenās funkcijas
       -Ievada skaitļus
       -Atņems skaitļus
